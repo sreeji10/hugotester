@@ -12,6 +12,9 @@ copyright = "Copyright &copy; 2021 [thmlblog](https://themlblog.com). All Rights
 languageCode = "en-US"
 languageName = "English"
 weight = 1
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
 [[languages.en.menu.footer]]
 URL = "/"
 name = "Home"
