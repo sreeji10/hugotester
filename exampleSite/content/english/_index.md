@@ -20,18 +20,14 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Projects that am currently working on.
+  content: " Data science is an evolving field. To stay up-to date with the technology
+    and techniques, its essential for us to dedicate time to pick up things and test
+    it out ourselves. \n\nThese are some of the interesting projects that i have worked
+    upon."
   button:
     enable: true
-    label: View Works
+    label: View Projects
     link: project
 service:
   enable: true
