@@ -65,6 +65,6 @@ mission_vision:
   - name: Approach
     content: ''
 cta:
-  enable: true
+  enable: false
 
 ---
