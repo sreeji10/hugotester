@@ -5,7 +5,7 @@ bg_image: ''
 layout: about
 about:
   enable: true
-  image: images/company/about.jpg
+  image: ''
   title: About Me
   content: ''
   button:
