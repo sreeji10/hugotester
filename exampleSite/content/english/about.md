@@ -48,6 +48,6 @@ mission_vision:
   enable: false
   tabs: []
 cta:
-  enable: true
+  enable: false
 
 ---
