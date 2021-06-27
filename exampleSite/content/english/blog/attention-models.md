@@ -4,7 +4,7 @@ categories = ["NLP"]
 date = 2021-06-20T18:30:00Z
 description = "Attention"
 image = ""
-tags = []
+tags = ["Deep Learning"]
 title = "Attention models"
 type = "post"
 
