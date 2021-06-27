@@ -30,24 +30,20 @@ portfolio:
     label: View Projects
     link: project
 service:
-  enable: true
+  enable: false
 cta:
-  enable: true
-  bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  enable: false
+  bg_image: ''
+  title: ''
+  content: ''
   button:
-    enable: true
-    label: Tell Us Your Story
-    link: contact
+    enable: false
+    label: ''
+    link: ''
 funfacts:
-  enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  enable: false
+  title: ''
+  description: ''
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
