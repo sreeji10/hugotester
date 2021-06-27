@@ -1,7 +1,7 @@
 ---
-title: Drop Us A Note
-description: this is meta description
-bg_image: images/feature-bg.jpg
+title: Lets Connect
+description: ''
+bg_image: ''
 layout: contact
 menu:
   main:
