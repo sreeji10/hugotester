@@ -37,28 +37,22 @@ features:
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: ''
   - icon: ion-ios-unlocked-outline
     name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: ''
   - icon: ion-ios-game-controller-b-outline
     name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: ''
   - icon: ion-ios-mic-outline
     name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: ''
   - icon: ion-ios-lightbulb-outline
     name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: ''
   - icon: ion-ios-star-outline
     name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: ''
 testimonial:
   enable: false
 mission_vision:
