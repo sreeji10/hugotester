@@ -7,14 +7,14 @@ about:
   enable: true
   image: images/company/about.jpg
   title: Hey this is Sreejith
-  content: ''
+  content: I apply machine learing and deep learning to provide solutions for clients.
+    Always a true student of the game. Just getting started….
   button:
     enable: true
-    label: Download Company Profile
+    label: Download CV
     link: "#"
   funfacts: []
-  description: I apply machine learing and deep learning to provide solutions for
-    clients. Always a true student of the game. Just getting started….
+  description: ''
 features:
   enable: false
   title: ''
