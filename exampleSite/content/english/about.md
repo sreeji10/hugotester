@@ -1,6 +1,6 @@
 ---
-title: About Our Company
-description: this is meta description
+title: About
+description: ''
 bg_image: ''
 layout: about
 about:
