@@ -3,7 +3,6 @@ bg_image = "/images/mainlogo.png"
 categories = ["NLP"]
 date = 2021-06-20T18:30:00Z
 description = "Attention"
-draft = true
 image = ""
 tags = []
 title = "Attention models"
