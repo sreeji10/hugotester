@@ -13,6 +13,7 @@ languageCode = "en-US"
 languageName = "English"
 weight = 1
 [[languages.en.menu.main]]
+URL = "about"
 name = "About"
 weight = 2
 [[languages.en.menu.footer]]
