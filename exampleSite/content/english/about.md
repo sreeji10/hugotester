@@ -1,4 +1,9 @@
 ---
+menu:
+  main:
+    name: "About"
+    weight: 2
+    
 title: About
 description: ''
 bg_image: ''
