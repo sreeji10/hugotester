@@ -2,7 +2,7 @@
 title: About Me
 description: ''
 bg_image: images/feature-bg.jpg
-layout: about
+layout: ''
 about:
   enable: true
   image: images/company/about.jpg
