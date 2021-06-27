@@ -13,29 +13,29 @@ languageCode = "en-US"
 languageName = "English"
 weight = 1
 [[languages.en.menu.footer]]
+URL = "home"
+name = "Home"
+weight = 1
+[[languages.en.menu.footer]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
 [[languages.en.menu.footer]]
 URL = "project"
 name = "Project"
 weight = 2
 [[languages.en.menu.footer]]
-URL = "service"
-name = "Service"
+URL = "blog"
+name = "Blog"
 weight = 3
 [[languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
+URL = "project"
+name = "Project"
+weight = 3
 [[languages.en.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 5
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
