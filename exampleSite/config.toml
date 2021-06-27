@@ -13,7 +13,7 @@ languageCode = "en-US"
 languageName = "English"
 weight = 1
 [[languages.en.menu.footer]]
-URL = "home"
+URL = "/"
 name = "Home"
 weight = 1
 [[languages.en.menu.footer]]
