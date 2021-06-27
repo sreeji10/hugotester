@@ -1,4 +1,8 @@
 ---
+menu:
+  main:
+    name: "Home"
+    weight: 1
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
